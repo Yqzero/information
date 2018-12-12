@@ -1,3 +1,4 @@
+num = 6
 num5 = 5
 num4 = 4
 num = 1
